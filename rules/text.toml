@@ -1,0 +1,4 @@
+[[RemoveDuplicates]]
+RemoveStr = "#!(?:/usr)?/bin/.+"
+FirstOnly = true
+ExactMatch = true 

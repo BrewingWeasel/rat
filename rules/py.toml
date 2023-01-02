@@ -1,0 +1,5 @@
+[[RemoveDuplicates]]
+RemoveString = "if\\s?\\(?__name__\\s?==\\s?('|\")__main__('|\")\\)?:"
+RemoveContinued = ["main()"]
+OnlyOne = true
+KeepEnd = true
